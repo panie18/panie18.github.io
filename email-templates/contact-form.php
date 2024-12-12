@@ -5,16 +5,16 @@ if( ! empty( $_POST['email'] ) ) {
 	$enable_smtp = 'no'; // yes OR no
 
 	// Email Receiver Address
-	$receiver_email = 'info@domain.com';
+	$receiver_email = 'contact@pauli.my';
 
 	// Email Receiver Name for SMTP Email
-	$receiver_name 	= 'Your Name';
+	$receiver_name 	= 'Pauli Nie';
 
 	// Email Subject
 	$subject = 'Contact form details';
 
 	// Google reCaptcha secret Key
-	$grecaptcha_secret_key = 'YOUR_SECRET_KEY';
+	$grecaptcha_secret_key = '6LdN95kqAAAAAABIn99PZimm3cXS2iKYIlv2RkBL';
 
 	$from 	= $_POST['email'];
 	$name 	= isset( $_POST['name'] ) ? $_POST['name'] : '';
