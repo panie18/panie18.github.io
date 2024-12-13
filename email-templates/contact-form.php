@@ -14,7 +14,7 @@ if( ! empty( $_POST['email'] ) ) {
 	$subject = 'Contact form details';
 
 	// Google reCaptcha secret Key
-	$grecaptcha_secret_key = '6LdN95kqAAAAAABIn99PZimm3cXS2iKYIlv2RkBL';
+	$grecaptcha_secret_key = '6Lf0-poqAAAAAGD7FXxK_qQtaYsQtRZtRO9UP7uX';
 
 	$from 	= $_POST['email'];
 	$name 	= isset( $_POST['name'] ) ? $_POST['name'] : '';
