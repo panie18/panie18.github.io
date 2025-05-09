@@ -9,6 +9,13 @@ I'm a hobbyist developer who enjoys creating websites and Python apps — just f
 - 🚀 Always learning by doing  
 - 🤝 Everything I make is open source and freely available
 
+### 💡 Interests
+
+- 🌍 Web hosting & self-hosting  
+- 🖥️ Server setup and domain management  
+- 🍓 Raspberry Pi & Arduino projects  
+- 🐧 Linux and open-source tools  
+
 ### 📬 Contact
 
 - 📸 Instagram: [@pauliii1807](https://instagram.com/pauliii1807)  
